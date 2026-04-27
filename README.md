@@ -34,11 +34,11 @@ The model classifies normal operation and six cyberattack scenarios:
 |-------|-------------|
 | 0 | Normal Operation |
 | 1 | False Data Injection |
-| 2 | Denial of Service (DoS) |
-| 3 | Replay Attack |
-| 4 | Ramp Attack |
-| 5 | Scaling Attack |
-| 6 | Random Attack |
+| 2 | Inverter Manipulation |
+| 3 | Output Drop |
+| 4 | Sensor Spoofing |
+| 5 | Clipping Attack |
+
 
 ---
 
