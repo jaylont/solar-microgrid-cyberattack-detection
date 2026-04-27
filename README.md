@@ -8,7 +8,7 @@ achieving 96.23% classification accuracy.
 ---
 
 ##  Demo
-> Video walkthrough coming soon — link will be added here
+> https://youtu.be/pjCUcDkSabk
 
 ---
 
