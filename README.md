@@ -8,7 +8,9 @@ achieving 96.23% classification accuracy.
 ---
 
 ##  Demo
-> https://youtu.be/pjCUcDkSabk
+> ## 📽️ Demo
+[![Demo Video](https://img.shields.io/badge/Watch-Demo-red?logo=youtube)](https://youtu.be/pjCUcDkSabk)
+> 
 
 ---
 
