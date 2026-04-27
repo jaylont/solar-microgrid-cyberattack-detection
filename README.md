@@ -42,7 +42,7 @@ The model classifies normal operation and six cyberattack scenarios:
 
 ---
 
-## 🧠 Model Performance
+##  Model Performance
 
 | Metric | Score |
 |--------|-------|
@@ -53,7 +53,7 @@ The model classifies normal operation and six cyberattack scenarios:
 
 ---
 
-## 🖥️ System Architecture
+##  System Architecture
 HelioScope Simulation Data
 ↓
 Synthetic Attack Injection
@@ -69,7 +69,7 @@ Flask Operator Dashboard
 └── Attack Classification Display
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Component | Technology |
 |-----------|------------|
@@ -101,7 +101,7 @@ Open `UpdatedCapstone_3_2.ipynb` in Google Colab and run all cells.
 
 ------
 
-## 🔐 Security & Compliance
+##  Security & Compliance
 
 This project incorporates relevant regulatory standards for solar energy systems:
 
